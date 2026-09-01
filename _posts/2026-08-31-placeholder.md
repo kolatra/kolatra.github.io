@@ -1,6 +1,6 @@
 ---
 title: Some Technical Topic
-date: 2026-08-31 12:00:00 -7
+date: 2026-08-31
 ---
 
 In this post, I will go over some technical topic and share my findings/troubles
