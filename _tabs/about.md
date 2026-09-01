@@ -1,9 +1,8 @@
 ---
-layout: default
+# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-title: About
 ---
-# About page
 
-This page has information about me and my projects.
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
